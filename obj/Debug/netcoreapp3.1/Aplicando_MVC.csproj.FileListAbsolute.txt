@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\bin\Debug\netcoreapp3.1\Aplicando_MVC.exe
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\bin\Debug\netcoreapp3.1\Aplicando_MVC.deps.json
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\bin\Debug\netcoreapp3.1\Aplicando_MVC.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\bin\Debug\netcoreapp3.1\Aplicando_MVC.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\bin\Debug\netcoreapp3.1\Aplicando_MVC.dll
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\bin\Debug\netcoreapp3.1\Aplicando_MVC.pdb
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\obj\Debug\netcoreapp3.1\Aplicando_MVC.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\obj\Debug\netcoreapp3.1\Aplicando_MVC.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\obj\Debug\netcoreapp3.1\Aplicando_MVC.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\obj\Debug\netcoreapp3.1\Aplicando_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\obj\Debug\netcoreapp3.1\Aplicando_MVC.dll
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\obj\Debug\netcoreapp3.1\Aplicando_MVC.pdb
+C:\Users\Lameck\Desktop\C#\Aplicando_MVC\obj\Debug\netcoreapp3.1\Aplicando_MVC.genruntimeconfig.cache
